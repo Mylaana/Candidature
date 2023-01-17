@@ -1,0 +1,23 @@
+Description des fichiers présents :
+
+video presentation projet :
+Une video de 13min décrivant le projet réalisé et son code
+
+lib_Actuals.bas :
+fonctions permettant de consolider la donnée brute puis de les enrichir à l'aide de règles financières
+
+lib_Export.bas :
+fonctions permettant d'exporter sous fichier plat / template
+
+lib_Import.bas :
+fonctions liées à l'importation des données brutes issues des outils de comptabilité et facturation
+
+lib_System.bas :
+fonctions systèmes
+
+lib_Gene.bas :
+autres fonctions (fonctions ad-hoc)
+
+
+
+bonne lecture :)
